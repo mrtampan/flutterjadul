@@ -12,7 +12,7 @@ download yg versi 1 sesuaikan dengan project flutter sobat
 ## Buat aliases Environment
 
 - buat folder dengan nama flutterjadul 
-- kemudian didalam dibuat file flutterjadui.bat
+- kemudian didalam dibuat file flutterjadul.bat
 - isi file dengan script dibawah ini:
 
 ``@echo off
