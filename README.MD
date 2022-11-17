@@ -9,7 +9,7 @@ masuk halaman ini: https://docs.flutter.dev/development/tools/sdk/releases
 download yg versi 1 sesuaikan dengan project flutter sobat
 
 
-## Buat aliases Env
+## Buat aliases Environment
 
 - buat folder dengan nama flutterjadul 
 - kemudian didalam dibuat file flutterjadui.bat
